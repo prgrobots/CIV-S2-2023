@@ -1,4 +1,5 @@
 # this is all that is in here
+''' doc string'''
 
 # has_pins =  TRUE
 
@@ -10,7 +11,5 @@ print("won't")
 def something_that_does_work():
     '''This need to take out the rubbish
     prams : rubbish bool
-    returns : bool
+    returns : bool'''
     
-    '''
-    pass
